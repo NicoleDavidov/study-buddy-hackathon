@@ -1,6 +1,9 @@
 # Study Buddy – Smart Academic Assistant 💬🎓
 
-**Study Buddy** is an interactive demo developed as part of an **internal hackathon at HIT College in collaboration with AWS**. The project showcases a concept for a smart academic assistant — a chatbot that detects declines in student performance and offers personalized support.
+**Study Buddy** is an interactive demo developed as part of an **internal AWS-focused hackathon organized by HIT College**.
+As part of this challenge, students were required to learn, demonstrate, and creatively apply AWS services such as Amazon S3, Transcribe, Bedrock, and more.
+
+The project showcases a concept for a smart academic assistant — a chatbot that detects declines in student performance and offers personalized support.
 
 The system includes a complete UI simulation, conversation scenarios, and animated transitions. The demo was built using React and modern web technologies, simulating how AWS tools can be integrated for analysis, monitoring, and academic support.
 
