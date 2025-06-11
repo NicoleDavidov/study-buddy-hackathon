@@ -4,7 +4,7 @@
 
 The system includes a complete UI simulation, conversation scenarios, and animated transitions. The demo was built using React and modern web technologies, simulating how AWS tools can be integrated for analysis, monitoring, and academic support.
 
-🎥 *Watch the Demo Video on YouTube:* https://youtu.be/9B5jRm6vPm8
+🎥 Watch the Demo Video on YouTube: https://youtu.be/9B5jRm6vPm8
 ---
 
 ## 🔧 Technologies Used
